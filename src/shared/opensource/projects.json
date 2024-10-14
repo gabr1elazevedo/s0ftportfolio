@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "id": "R_kgDOMztXRg",
+      "name": "s0ftportfolio",
+      "createdAt": "2024-09-18T20:15:58Z",
+      "url": "https://github.com/gabr1elazevedo/S0ftPortfolio",
+      "description": "・Apresente seu talento e conquistas em tecnologia, destacando suas habilidades, projetos inovadores e experiências que moldaram sua carreira.",
+      "isFork": false,
+      "forkCount": 0,
+      "stargazers": {
+        "totalCount": 1
+      },
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "simple-icons:javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "simple-icons:html5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "simple-icons:css3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "name": "@fortawesome/fontawesome-svg-core",
+  "version": "6.6.0",
+  "description": "The iconic font, CSS, and SVG framework",
+  "license": "MIT",
+  "author": "The Font Awesome Team (https://github.com/orgs/FortAwesome/people)",
+  "homepage": "https://fontawesome.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FortAwesome/Font-Awesome"
+  },
+  "bugs": {
+    "url": "https://github.com/FortAwesome/Font-Awesome/issues"
+  },
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "module": "./index.mjs",
+      "import": "./index.mjs",
+      "require": "./index.js",
+      "style": "./styles.css",
+      "default": "./index.js"
+    },
+    "./index": {
+      "types": "./index.d.ts",
+      "module": "./index.mjs",
+      "import": "./index.mjs",
+      "require": "./index.js",
+      "default": "./index.js"
+    },
+    "./index.js": {
+      "types": "./index.d.ts",
+      "module": "./index.mjs",
+      "import": "./index.mjs",
+      "require": "./index.js",
+      "default": "./index.js"
+    },
+    "./plugins": {
+      "types": "./index.d.ts",
+      "module": "./plugins.mjs",
+      "import": "./plugins.mjs",
+      "default": "./plugins.mjs"
+    },
+    "./import.macro": "./import.macro.js",
+    "./import.macro.js": "./import.macro.js",
+    "./styles": "./styles.css",
+    "./styles.css": "./styles.css",
+    "./package.json": "./package.json"
+  },
+  "main": "index.js",
+  "module": "index.mjs",
+  "sideEffects": [
+    "./index.js",
+    "./index.mjs",
+    "./styles.css"
+  ],
+  "types": "./index.d.ts",
+  "dependencies": {
+    "@fortawesome/fontawesome-common-types": "6.6.0"
+  },
+  "keywords": [
+    "awesome",
+    "bootstrap",
+    "font",
+    "fontawesome",
+    "icon",
+    "svg"
+  ],
+  "engines": {
+    "node": ">=6"
+  },
+  "jsnext:main": "index.mjs",
+  "style": "styles.css"
+}
