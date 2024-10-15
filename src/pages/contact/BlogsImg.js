@@ -5,8 +5,8 @@ export default class BlogsImg extends Component {
     const theme = this.props.theme;
     return (
       <svg
-        width={1500}
-        height={800}
+        width={1300}
+        height={700}
         viewBox="0 0 1061 742.85506"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
