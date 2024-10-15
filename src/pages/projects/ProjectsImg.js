@@ -5,7 +5,7 @@ export default class ProjectsImg extends Component {
     const theme = this.props.theme;
     return (
       <svg
-        width={1400}
+        width={1300}
         height={700}
         viewBox="0 0 1103.79 707.8"
         fill="none"
