@@ -6,7 +6,7 @@ export default class FullStackImg extends Component {
     return (
       <svg
         width={1300}
-        height={1000}
+        height={800}
         viewBox="0 0 1098.75 632.37039"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
