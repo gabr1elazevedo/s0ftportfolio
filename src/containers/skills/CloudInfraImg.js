@@ -5,8 +5,8 @@ export default class CloudInfraImg extends Component {
     const theme = this.props.theme;
     return (
       <svg
-        width={1100}
-        height={900}
+        width={700}
+        height={500}
         viewBox="0 0 838 670"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
