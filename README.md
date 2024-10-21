@@ -162,7 +162,7 @@ A seção de habilidades obtém dados do array `skills` dentro de `portfolio.js`
 
 ### Logo de Abertura
 
-O logotipo animado apresentado no site de exemplo utiliza o `Figma` para `(Design)` e `(CSS3)` para animação. _Esta parte específica não é personalizável_.
+O logotipo animado apresentado no site de exemplo utiliza o `Figma` para `(Design)` e `CSS3` para `(Animação)`. _Esta parte específica não é personalizável_.
 
 - Alternativas:
 
