@@ -4,7 +4,7 @@
 </h1>
 <img align="right" src="https://raw.githubusercontent.com/gabr1elazevedo/gabr1elazevedo/959baead2cdb7314b4b918f9520a29149dce6cec/Image.svg" alt="Image" title="Imagem" width="450"/>
 
-<h3>👋🏻 Sobre Mim:</h3>
+<h3>🚀 Sobre o Projeto:</h3>
 <div align="left">
   <p>• 📚 Atualmente, estou focado em:<br>
     <b>Desenvolvimento Back-End utilizando TypeScript e Python, enquanto busco uma carreira como Engenheiro de Software.</b></p>
