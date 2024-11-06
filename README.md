@@ -5,25 +5,26 @@
 <h1 align="center"><br><b><a target="_blank" href="#">< s0ftportfolio /></a></b></br> 
 <h3 align="center">・O modelo completo de portfólio para profissionais de T.I totalmente personalizável. Este modelo permite que você exiba seus projetos e forneça informações detalhadas sobre suas habilidades e experiências.</h3>
 
-<p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="auto" width="40">
-    
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="auto" width="40">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="auto" width="40">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="auto" width="40">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="auto" width="40">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/git-original.svg" height="auto" width="40">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="auto" width="40">
-
-</p>
+<div align="left">
+  <a href="https://reactjs.org/docs/getting-started.html" target="_blank">
+    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" /></a>
+  <a href="https://webpack.js.org/concepts/" target="_blank">
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" /></a>
+  <a href="https://docs.github.com/en/actions" target="_blank">
+    <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /></a>
+  <a href="https://git-scm.com/doc" target="_blank">
+    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+  <a href="https://docs.npmjs.com/getting-started/what-is-npm" target="_blank">
+    <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+ <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
+    <img alt="CSS3" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /></a>
+  <a href="https://prettier.io/docs/en/index.html" target="_blank">
+    <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" /></a>
+  <a href="https://nodejs.org/en" target="_blank">
+    <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" /></a>
+</div>
 
 <h3 align="center"> ⭐ Avalie o Projeto! (+) </h3>
 
