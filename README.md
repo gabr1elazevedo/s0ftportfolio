@@ -11,8 +11,6 @@
   <a href="https://www.docker.com/" target="_blank">
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" /></a>
   <a href="https://sass-lang.com/" target="_blank">
-    <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /></a>
-  <a href="https://git-scm.com/doc" target="_blank">
     <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
   <a href="https://docs.npmjs.com/getting-started/what-is-npm" target="_blank">
     <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
