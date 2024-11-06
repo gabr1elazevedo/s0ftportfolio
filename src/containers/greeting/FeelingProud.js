@@ -5,8 +5,8 @@ class FeelingProud extends Component {
     const theme = this.props.theme;
     return (
       <svg
-        width={1300}
-        height={900}
+        width={1100}
+        height={700}
         viewBox="0 0 997 829"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
