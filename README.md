@@ -10,8 +10,8 @@
      Estou focado no <b>Desenvolvimento Back-End</b> com <b>TypeScript</b> e <b>Python</b>, visando uma carreira como <b>Engenheiro de Software</b>.</p>
   <p>• ⚙️ O portfólio inclui projetos pessoais e colaborativos, demonstrando minha capacidade de construir soluções escaláveis e de alta qualidade.</p>
   <p>• 🎯 Meus objetivos: <b>trabalhar em equipe, otimizar processos e explorar novas tecnologias no campo do desenvolvimento back-end e software engineering.</b></p>
-  <p>• 📫 Para entrar em contato comigo:
-  <b>gabrielaffonsoazevedo0@gmail.com</b>
+  <p>• 📫 Para entrar em contato comigo:<br>
+     <b>gabrielaffonsoazevedo0@gmail.com</b></p>
 </p>
 </div>
 
