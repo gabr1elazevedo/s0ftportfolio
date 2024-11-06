@@ -5,7 +5,7 @@ export default class ExperienceImg extends Component {
     const theme = this.props.theme;
     return (
       <svg
-        width={1300}
+        width={1100}
         height={700}
         viewBox="0 0 1094 760"
         fill="none"
