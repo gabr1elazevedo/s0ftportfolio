@@ -1,34 +1,35 @@
-<p align="center"> 
-    <img src="images/banner.svg" align="center" height="300"></img>
-</p>
+<h1 align="left">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+  Olá, sou o Gabriel
+</h1>
+<img align="right" src="https://raw.githubusercontent.com/gabr1elazevedo/gabr1elazevedo/959baead2cdb7314b4b918f9520a29149dce6cec/Image.svg" alt="Image" title="Imagem" width="450"/>
 
-<h1 align="center"><br><b><a target="_blank" href="#">< s0ftportfolio /></a></b></br> 
-<h3 align="center">・O modelo completo de portfólio para profissionais de T.I totalmente personalizável. Este modelo permite que você exiba seus projetos e forneça informações detalhadas sobre suas habilidades e experiências.</h3>
-
+<h3>👋🏻 Sobre Mim:</h3>
 <div align="left">
-  <a href="https://reactjs.org/docs/getting-started.html" target="_blank">
-    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" /></a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" /></a>
-  <a href="https://sass-lang.com/" target="_blank">
-    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
-  <a href="https://docs.npmjs.com/getting-started/what-is-npm" target="_blank">
-    <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
- <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
-    <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></a>
-  <a href="https://prettier.io/docs/en/index.html" target="_blank">
-    <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" /></a>
-  <a href="https://www.figma.com/pt-br/" target="_blank">
-    <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /></a>
-  <a href="https://nodejs.org/en" target="_blank">
-    <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" /></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
-    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
+  <p>• 📚 Atualmente, estou focado em:<br>
+    <b>Desenvolvimento Back-End utilizando TypeScript e Python, enquanto busco uma carreira como Engenheiro de Software.</b></p>
+  <p>• ℹ️ Meus hobbies incluem:<br>
+    <b>Jogos 🎮 | Música 🎧 | Esportes 🏃 | Natureza 🍃 | Filmes 🎥</b></p>
+  <p>• 💬 Sinta-se à vontade para me perguntar sobre:<br>
+    <b>Qualquer tema! Adoro aprender e explorar novas ideias.</b></p>
+  <p>• 📫 Para entrar em contato comigo:<br>
+    <b>gabrielaffonsoazevedo0@gmail.com</b></p>
 </div>
 
-<h3 align="center"> ⭐ Avalie o Projeto! (+) </h3>
+<div align="left">
+  <a href="https://x.com/gabr1elazevedo_" target="_blank">
+    <img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
+  <a href="https://facebook.com/gabr1elazevedo_" target="_blank">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/gabr1elazevedo_" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="#" target="_blank">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="#" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
+
+------------
 
 # 📚 Sessões
 
@@ -40,6 +41,8 @@
 - Contatos
 
 - **[Exemplo Online](https://gabr1elazevedo.github.io/)**
+
+------------
 
 # 📋 Clonagem
 
@@ -83,6 +86,8 @@ npm start
 ```
 
 _(Este comando irá iniciar o servidor de desenvolvimento e abrir o website em seu navegador.)_
+
+------------
 
 # ✏️ Customização
 
@@ -178,6 +183,8 @@ O logotipo animado apresentado no site de exemplo utiliza o `Figma` para `(Desig
    Abra `src/portfolio.js`.
    Localize o objeto `settings`.
 
+------------
+
 # 🎨 Temas
 
 ### Alterar os temas do Portfólio.
@@ -194,6 +201,8 @@ _(Você precisa alterar o nome de `blackTheme` para o tema que deseja definir pa
 Você pode definir novos temas de maneira semelhante a outros temas e pode atribuir o nome desse novo tema definido a `chosenTheme`.
 É isso. Você só precisa alterar o nome do tema e o código cuidará de todo o resto.
 **Execute `npm start` para verificar se está tudo certo!**
+
+------------
 
 # 📦 Hospedagem
 
@@ -223,6 +232,8 @@ Agora, você precisa gerar uma compilação de produção e implantar o site.
 
 - Veja [LICENSE.md](./LICENSE) para mais detalhes.
 
+------------
+
 # ✨ Contribuições
 
 <!-- ALL-CONTRIBUTORS-LIST:START -->
@@ -236,6 +247,8 @@ Agora, você precisa gerar uma compilação de produção e implantar o site.
 </table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+------------
 
 # 👏🏻 Referências
 
