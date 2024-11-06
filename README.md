@@ -15,20 +15,20 @@
 </div>
 
 <div align="left">
-  <a href="https://reactjs.org/docs/getting-started.html" target="_blank">
+  <a href="https://reactjs.org/docs/getting-started.html/" target="_blank">
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" /></a>
-  <a href="https://www.docker.com/learn/docker-tutorials" target="_blank">
+  <a href="https://www.docker.com/learn/docker-tutorials/" target="_blank">
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" /></a>
-  <a href="https://sass-lang.com/documentation" target="_blank">
-    <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /></a>
-  <a href="https://git-scm.com/doc" target="_blank">
-    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
-  <a href="https://docs.npmjs.com/getting-started/what-is-npm" target="_blank">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/" target="_blank">
+    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+  <a href="https://www.figma.com/pt-br/" target="_blank">
+    <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /></a>
+  <a href="https://docs.npmjs.com/getting-started/what-is-npm/" target="_blank">
     <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/" target="_blank">
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-  <a href="https://prettier.io/docs/en/index.html" target="_blank">
-    <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/" target="_blank">
+    <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></a>
   <a href="https://nodejs.org/en/docs/" target="_blank">
     <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" /></a>
 </div>
