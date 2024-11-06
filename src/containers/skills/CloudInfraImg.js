@@ -6,7 +6,7 @@ export default class CloudInfraImg extends Component {
     return (
       <svg
         width={700}
-        height={500}
+        height={700}
         viewBox="0 0 838 670"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
