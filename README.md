@@ -2,9 +2,9 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
   s0ftportfolio
 </h1>
-<img align="right" src="https://raw.githubusercontent.com/gabr1elazevedo/gabr1elazevedo/959baead2cdb7314b4b918f9520a29149dce6cec/Image.svg" alt="Image" title="Imagem" width="450"/>
+<img align="right" src="https://raw.githubusercontent.com/gabr1elazevedo/s0ftportfolio/31cf3fdcef610e33cf8613b773510db141feb48a/src/assests/images/banner.svg" alt="Banner" title="Banner" width="450"/>
 
-<h3>🚀 Sobre o Projeto:</h3>
+<h3>🚀 Sobre:</h3>
 <div align="left">
   <p>• 📚 Este projeto é o meu <b>Software Portfolio</b>, onde compartilho habilidades, projetos e minha trajetória profissional no universo da tecnologia da informação.<br>
      Estou focado no <b>Desenvolvimento Back-End</b> com <b>TypeScript</b> e <b>Python</b>, visando uma carreira como <b>Engenheiro de Software</b>.</p>
