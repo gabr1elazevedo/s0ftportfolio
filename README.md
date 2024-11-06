@@ -19,7 +19,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
-    <img alt="CSS3" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /></a>
+    <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></a>
   <a href="https://prettier.io/docs/en/index.html" target="_blank">
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" /></a>
   <a href="https://www.figma.com/pt-br/" target="_blank">
