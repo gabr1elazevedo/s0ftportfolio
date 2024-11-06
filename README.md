@@ -1,6 +1,6 @@
 <h1 align="left">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
-  Olá, sou o Gabriel
+  s0ftportfolio
 </h1>
 <img align="right" src="https://raw.githubusercontent.com/gabr1elazevedo/gabr1elazevedo/959baead2cdb7314b4b918f9520a29149dce6cec/Image.svg" alt="Image" title="Imagem" width="450"/>
 
@@ -31,7 +31,7 @@
 
 ------------
 
-# 📚 Sessões
+# 📚 Sessões:
 
 - Sobre Mim
 - Código Aberto (Github)
@@ -44,7 +44,7 @@
 
 ------------
 
-# 📋 Clonagem
+# 📋 Clonagem:
 
 ### Pré-requisitos de desenvolvimento.
 
@@ -89,7 +89,7 @@ _(Este comando irá iniciar o servidor de desenvolvimento e abrir o website em s
 
 ------------
 
-# ✏️ Customização
+# ✏️ Customização:
 
 ### Personalizando seu Portfólio Online!
 
@@ -185,7 +185,7 @@ O logotipo animado apresentado no site de exemplo utiliza o `Figma` para `(Desig
 
 ------------
 
-# 🎨 Temas
+# 🎨 Temas:
 
 ### Alterar os temas do Portfólio.
 
@@ -204,7 +204,7 @@ Você pode definir novos temas de maneira semelhante a outros temas e pode atrib
 
 ------------
 
-# 📦 Hospedagem
+# 📦 Hospedagem:
 
 ### Deixando seu Portfólio online!
 
@@ -228,13 +228,15 @@ Agora, você precisa gerar uma compilação de produção e implantar o site.
 2. A última etapa da implantação é habilitar o `GitHub Pages` nas configurações do repositório e selecionar a `branch gh-pages`.
    Agora, seu site está implantado com sucesso e você pode visitá-lo em: `<seu-username-github>.github.io`.
 
-# 📄 Licença
+------------
+
+# 📄 Licença:
 
 - Veja [LICENSE.md](./LICENSE) para mais detalhes.
 
 ------------
 
-# ✨ Contribuições
+# ✨ Contribuições:
 
 <!-- ALL-CONTRIBUTORS-LIST:START -->
 <table>
