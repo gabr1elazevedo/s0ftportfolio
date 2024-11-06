@@ -11,7 +11,6 @@
   <p>• ⚙️ O portfólio inclui projetos pessoais e colaborativos, demonstrando minha capacidade de construir soluções escaláveis e de alta qualidade.</p>
   <p>• 🎯 Meus objetivos: <b>trabalhar em equipe, otimizar processos e explorar novas tecnologias no campo do desenvolvimento back-end e software engineering.</b></p>
   <p>• 🛠️ As ferramentas utilizadas neste projeto incluem:</p>
-</p>
 </div>
 
 <div align="left">
@@ -33,230 +32,113 @@
     <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" /></a>
 </div>
 
-------------
+<hr>
 
-# 📚 Sessões:
+<h3>📚 Sessões:</h3>
+<ul>
+  <li>Sobre Mim</li>
+  <li>Código Aberto (Github)</li>
+  <li>Experiência</li>
+  <li>Blogs</li>
+  <li>Educação</li>
+  <li>Contatos</li>
+</ul>
+<p><b><a href="https://gabr1elazevedo.github.io/" target="_blank">Exemplo Online</a></b></p>
 
-- Sobre Mim
-- Código Aberto (Github)
-- Experiência
-- Blogs
-- Educação
-- Contatos
+<hr>
 
-- **[Exemplo Online](https://gabr1elazevedo.github.io/)**
+<h3>📋 Clonagem:</h3>
 
-------------
+<h4>Pré-requisitos de desenvolvimento.</h4>
+<p>Este projeto utiliza a biblioteca <code>React.JS</code> do <code>JavaScript</code>. Para desenvolvê-lo, é necessário ter o <code>Node.JS</code> e o <code>NPM</code> instalados em sua máquina.</p>
 
-# 📋 Clonagem:
+<h4>Instalação das dependências.</h4>
+<p>Acesse o site oficial do <code>Node.JS</code> <a href="https://nodejs.org/en" target="_blank">Download</a> e baixe a versão mais recente estável ou uma versão compatível com os badges indicados no repositório.</p>
+<p>Durante a instalação do <code>Node.JS</code>, o <code>NPM</code> (Node Package Manager) será automaticamente instalado.</p>
 
-### Pré-requisitos de desenvolvimento.
+<h4>Configurando o ambiente de desenvolvimento.</h4>
+<ul>
+  <li><b>Clone do repositório:</b> Após a instalação bem-sucedida do <code>Node.JS</code> e <code>NPM</code>, abra o terminal e execute o seguinte comando para clonar o repositório para o seu sistema local:
+    <pre><code>git clone https://github.com/gabr1elazevedo/s0ftportfolio.git</code></pre>
+    (Este comando irá baixar todos os arquivos do projeto para a sua máquina.)
+  </li>
 
-Este projeto utiliza a biblioteca `React.JS` do `JavaScript`. Para desenvolvê-lo, é necessário ter o `Node.JS` e o `NPM` instalados em sua máquina.
+  <li><b>Instalação de dependências:</b> Navegue até o diretório onde o repositório clonado foi armazenado e execute o seguinte comando para instalar as dependências necessárias:
+    <pre><code>npm install</code></pre>
+    (Este comando irá baixar e instalar todas as bibliotecas externas utilizadas pelo projeto.)
+  </li>
 
-### Instalação das dependências.
+  <li><b>Executando o projeto:</b> Com as dependências instaladas, você já pode iniciar o projeto localmente. Execute o seguinte comando no terminal:
+    <pre><code>npm start</code></pre>
+    (Este comando irá iniciar o servidor de desenvolvimento e abrir o website em seu navegador.)
+  </li>
+</ul>
 
-Acesse o site oficial do `Node.JS` [Download](https://nodejs.org/en) e baixe a versão mais recente estável ou uma versão compatível com os badges indicados no repositório.
-Durante a instalação do `Node.JS`, o `NPM` (Node Package Manager) será automaticamente instalado.
+<hr>
 
-### Configurando o ambiente de desenvolvimento.
+<h3>✏️ Customização:</h3>
 
-- Clone do repositório:
+<h4>Personalizando seu Portfólio Online!</h4>
+<p>Este guia permite que você personalize seu portfólio online, tornando-o uma representação única e impactante de suas habilidades e experiências. Aqui estão as principais áreas que você pode modificar:</p>
 
-Após a instalação bem-sucedida do `Node.JS` e `NPM`, abra o terminal e execute o seguinte comando para clonar o repositório para o seu sistema local:
+<ul>
+  <li><b>Arquivo package.json</b>: Localize este arquivo no diretório principal do seu projeto. Altere a propriedade <code>"name"</code> para refletir o identificador preferido do seu site. Atualize a propriedade <code>"homepage"</code> para <code>https://<seu-username-github>.github.io</code>.</li>
+  <li><b>Informações Pessoais:</b> Abra o diretório <code>src/portfolio.js</code>. Este arquivo contém dados sobre você. Modifique as seções <code>greeting</code>, <code>socialMediaLinks</code>, <code>Experiência, Educação, Habilidades, Certificações</code>, etc.</li>
+  <li><b>Ícones na Página Inicial:</b> A seção de habilidades obtém dados do array <code>skills</code> dentro de <code>portfolio.js</code>. Você pode adicionar ícones personalizados de sites como [Iconify](https://icon-sets.iconify.design/).</li>
+  <li><b>Informações do GitHub:</b> Configure variáveis de ambiente para acessar os dados do GitHub, como pull requests e issues, no arquivo <code>fetcher.mjs</code>.</li>
+  <li><b>Logo de Abertura:</b> O logotipo animado usa o <code>Figma</code> para design e <code>CSS3</code> para animação.</li>
+</ul>
 
-```Bash
-git clone https://github.com/gabr1elazevedo/s0ftportfolio.git
-```
+<hr>
 
-_(Este comando irá baixar todos os arquivos do projeto para a sua máquina.)_
+<h3>🎨 Temas:</h3>
+<p>Você pode alterar os temas do Portfólio no arquivo <code>src/theme.js</code>, onde todos os temas disponíveis são mencionados com seus respectivos códigos de cores. Para alterar o tema, altere o código abaixo:</p>
 
-- Instalação de dependências:
+<pre><code>export const chosenTheme = blueTheme;</code></pre>
 
-Navegue até o diretório onde o repositório clonado foi armazenado e execute o seguinte comando para instalar as dependências necessárias:
+<p>Altere o nome do tema e o código cuidará de todo o resto. Execute <code>npm start</code> para verificar se está tudo certo!</p>
 
-```Bash
-npm install
-```
+<hr>
 
-_(Este comando irá baixar e instalar todas as bibliotecas externas utilizadas pelo projeto.)_
+<h3>📦 Hospedagem:</h3>
+<h4>Deixando seu Portfólio online!</h4>
+<p>Agora que você concluiu todas as etapas anteriores com sucesso, é hora de colocar seu site online! Eu altamente recomendo usar o <code>GitHub Pages</code> para fazer isso da maneira mais fácil.</p>
 
-- Executando o projeto:
+<h4>Alternativa 1</h4>
+<ol>
+  <li>Execute <code>npm run build</code> para gerar a pasta de compilação de produção.</li>
+  <li>Entre na pasta de compilação, execute <code>git init</code> e envie o código gerado para a <code>branch master</code> do seu novo repositório no GitHub.</li>
+</ol>
 
-Com as dependências instaladas, você já pode iniciar o projeto localmente. Execute o seguinte comando no terminal:
+<h4>Alternativa 2</h4>
+<ol>
+  <li>Execute <code>npm run deploy</code> para compilar e criar uma <code>branch</code> chamada <code>gh-pages</code>.</li>
+  <li>Habilite o <code>GitHub Pages</code> nas configurações do repositório e selecione a <code>branch gh-pages</code>.</li>
+  <li>Agora, seu site está implantado com sucesso e você pode visitá-lo em: <code><seu-username-github>.github.io</code>.</li>
+</ol>
 
-```Bash
-npm start
-```
+<hr>
 
-_(Este comando irá iniciar o servidor de desenvolvimento e abrir o website em seu navegador.)_
+<h3>📄 Licença:</h3>
+<p>Veja <a href="./LICENSE" target="_blank">LICENSE.md</a> para mais detalhes.</p>
 
-------------
+<hr>
 
-# ✏️ Customização:
-
-### Personalizando seu Portfólio Online!
-
-Este guia permite que você personalize seu portfólio online, tornando-o uma representação única e impactante de suas habilidades e experiências. Aqui estão as principais áreas que você pode modificar:
-
-- Arquivo package.json
-
-1. Localize este arquivo no diretório principal do seu projeto.
-
-2. Altere a propriedade `"name"` para refletir o identificador preferido do seu site.
-
-3. Atualize a propriedade `"homepage"` para `https://<seu-username-github>.github.io`.
-   _Certifique-se de incluir `https://` para garantir o carregamento correto das fontes_.
-
-- Informações Pessoais
-
-1. Abra o diretório `src/portfolio.js`. Este arquivo contém dados sobre você.
-
-2. Modifique as seguintes seções dentro de `portfolio.js` para adaptá-las ao seu histórico:
-
-3. Página Inicial:
-   Seção `greeting` para sua introdução e mensagem de boas-vindas.
-
-4. Mídias Sociais:
-   `socialMediaLinks` para seus perfis de mídia social _links e ícones_.
-
-5. Detalhes Profissionais:
-   `Experiência, Educação, Habilidades, Certificações` _logos, ícones, etc..._
-
-6. Blog:
-   Inclua os detalhes do seu blog, se aplicável _link, descrição_.
-
-7. Informações de Contato:
-   Adicione seus dados de contato: _e-mail, telefone etc..._
-
-### Ícones na Página Inicial.
-
-Fonte de Dados:
-A seção de habilidades obtém dados do array `skills` dentro de `portfolio.js`.
-
-- Adicionando Ícones
-
-1. Visite [Iconify](https://icon-sets.iconify.design/) e procure o ícone de habilidade desejada.
-   Selecione o ícone de sua preferência.
-   Copie o texto exibido ao lado de "Ícone Selecionado".
-
-2. Em `portfolio.js`, localize o objeto `softwareSkill` correspondente para aquela habilidade.
-
-3. Substitua a propriedade `fontAwesomeClassName` desse objeto `softwareSkill` pelo texto copiado.
-
-### Imagens Personalizadas.
-
-1. Coloque o arquivo de imagem no diretório `public/skills`.
-   Dentro de `portfolio.js`, para o objeto `softwareSkill` relevante.
-
-2. Defina a propriedade `imageSrc` como o nome do arquivo da imagem.
-
-3. Remova ou deixe vazia a propriedade `fontAwesomeClassName`, ela tem prioridade sobre `imageSrc`.
-   Para estilizar a imagem, use a propriedade `style` dentro de `softwareSkill`.
-
-### Informações do GitHub.
-
-1. Busca de Dados:
-   `fetcher.mjs` no diretório principal, recupera dados do GitHub _pull requests, issues etc..._
-
-2. Variáveis de Ambiente:
-   Crie um novo arquivo chamado `.env` no diretório principal.
-
-3. Copie o conteúdo de `env.example` para `.env`.
-
-4. Dentro de `.env`, atualize:
-   `GITHUB_TOKEN`: Obtenha um token de acesso pessoal do [GitHub Token](https://github.com/settings/tokens) concedendo todas as permissões. `GITHUB_USERNAME`: Defina como seu nome de usuário do GitHub.
-
-5. Executando o Script de Atualização:
-   Certifique-se de ter executado o comando `npm install` previamente.
-
-6. Execute o seguinte comando: `node fetcher.mjs` **(Aviso: Nunca compartilhe seus tokens do GitHub; use-os como variáveis de ambiente.)**
-
-### Logo de Abertura
-
-O logotipo animado apresentado no site de exemplo utiliza o `Figma` para `(Design)` e `CSS3` para `(Animação)`. _Esta parte específica não é personalizável_.
-
-- Alternativas:
-
-1. Crie Seu Próprio Logo:
-   Use [Figma](https://www.figma.com/), [Adobe XD](https://www.adobe.com/br/), [Adobe Illustrator](https://www.adobe.com/br/) ou [Inkscape](https://inkscape.org/pt-br/), para criar o seu próprio logotipo.
-
-2. Para animação, consulte o diretório: `./src/components/Loader`, para exemplos: `chosenTheme`
-
-3. Desativar a Tela de Abertura:
-   Abra `src/portfolio.js`.
-   Localize o objeto `settings`.
-
-------------
-
-# 🎨 Temas:
-
-### Alterar os temas do Portfólio.
-
-Você pode dar uma olhada no arquivo `src/theme.js` onde todos os temas disponíveis são mencionados com seus respectivos códigos de cores.
-Logo abaixo, você verá o código do arquivo:
-
-```JavaScript
-export const chosenTheme = blueTheme;
-```
-
-_(Você precisa alterar o nome de `blackTheme` para o tema que deseja definir para o seu site.)_
-
-Você pode definir novos temas de maneira semelhante a outros temas e pode atribuir o nome desse novo tema definido a `chosenTheme`.
-É isso. Você só precisa alterar o nome do tema e o código cuidará de todo o resto.
-**Execute `npm start` para verificar se está tudo certo!**
-
-------------
-
-# 📦 Hospedagem:
-
-### Deixando seu Portfólio online!
-
-Agora que você concluiu todas as etapas anteriores com sucesso, é hora de colocar seu site online!
-**Eu altamente recomendo usar o `GitHub Pages` para fazer isso da maneira mais fácil.**
-
-Para implantar seu site, você tem duas opções. Primeiro, você precisa criar um repositório GitHub com o nome `<seu-username-github>.github.io`. **Por favor, não dê nenhum outro nome a ele.**
-
-Agora, você precisa gerar uma compilação de produção e implantar o site.
-
-- Alternativa 1
-
-1. Execute `npm run build` para gerar a pasta de compilação de produção.
-
-2. Entre na pasta de compilação, execute `git init` e envie o código gerado para a `branch master` do seu novo repositório no GitHub. Você pode precisar executar `git init` e forçar o envio a cada nova compilação!
-
-- Alternativa 2
-
-1. Execute `npm run deploy` para compilar e criar uma `branch` chamada `gh-pages`. Ele enviará os arquivos build para essa branch.
-
-2. A última etapa da implantação é habilitar o `GitHub Pages` nas configurações do repositório e selecionar a `branch gh-pages`.
-   Agora, seu site está implantado com sucesso e você pode visitá-lo em: `<seu-username-github>.github.io`.
-
-------------
-
-# 📄 Licença:
-
-- Veja [LICENSE.md](./LICENSE) para mais detalhes.
-
-------------
-
-# ✨ Contribuições:
-
+<h3>✨ Contribuições:</h3>
 <!-- ALL-CONTRIBUTORS-LIST:START -->
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="http://gabr1elazevedo.github.io"><img src="https://avatars.githubusercontent.com/u/142058198?s=400&u=23d2e46f8209dbc083982c306e60fccc35cd3297&v=4" width="100px;" alt="Gabriel Azevedo"/><br /><b>Gabriel Azevedo</b></a><br /><a href="https://github.com/gabr1elazevedo/s0ftportfolio/commits?author=gabr1elazevedo" title="Code">💻</a> <a href="https://github.com/gabr1elazevedo/s0ftportfolio/commits?author=gabr1elazevedo" title="Documentation">📖</a> <a href="#design-gabr1elazevedo" title="Design">🎨</a> <a href="#maintenance-gabr1elazevedo" title="Maintenance">🚧</a> <a href="#ideas-gabr1elazevedo" title="Ideas, Planning, & Feedback">🤔</a>
-  </td>
+      <td align="center" valign="top" width="14.28%"><a href="http://gabr1elazevedo.github.io"><img src="https://avatars.githubusercontent.com/u/142058198?s=400&u=23d2e46f8209dbc083982c306e60fccc35cd3297&v=4" width="100px;" alt="Gabriel Azevedo"/><br /><b>Gabriel Azevedo</b></a><br /><a href="https://github.com/gabr1elazevedo/s0ftportfolio/commits?author=gabr1elazevedo" title="Code">💻</a> <a href="https://github.com/gabr1elazevedo/s0ftportfolio/commits?author=gabr1elazevedo" title="Documentation">📖</a> <a href="#design-gabr1elazevedo" title="Design">🎨</a> <a href="#maintenance-gabr1elazevedo" title="Maintenance">🚧</a> <a href="#ideas-gabr1elazevedo" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
 </table>
-
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-------------
+<hr>
 
-# 👏🏻 Referências
-
-- Este projeto incorpora conceitos de design e implementação inspirados em portfólios de desenvolvedores renomados:
-- [Saad Pasta's](https://github.com/saadpasta/developerFolio) | [Ashutosh1919's](https://github.com/ashutosh1919/masterPortfolio)
+<h3>👏🏻 Referências:</h3>
+<ul>
+  <li><a href="https://github.com/saadpasta/developerFolio" target="_blank">Saad Pasta's</a></li>
+  <li><a href="https://github.com/ashutosh1919/masterPortfolio" target="_blank">Ashutosh1919's</a></li>
+</ul>
