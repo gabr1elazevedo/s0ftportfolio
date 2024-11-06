@@ -13,6 +13,7 @@
   <p>• 🛠️ As ferramentas utilizadas neste projeto incluem:</p>
 </p>
 </div>
+<br>
 
 <div align="left">
   <a href="https://reactjs.org/docs/getting-started.html" target="_blank">
