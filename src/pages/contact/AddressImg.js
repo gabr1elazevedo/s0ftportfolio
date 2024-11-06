@@ -5,7 +5,7 @@ export default class AddressImg extends Component {
     const theme = this.props.theme;
     return (
       <svg
-        width={1300}
+        width={1100}
         height={700}
         viewBox="0 0 1013.44925 610.28138"
         fill="none"
