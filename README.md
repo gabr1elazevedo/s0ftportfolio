@@ -6,15 +6,15 @@
 
 <h3>🚀 Sobre o Projeto:</h3>
 <div align="left">
-  <p>• 📚 Atualmente, estou focado em:<br>
-    <b>Desenvolvimento Back-End utilizando TypeScript e Python, enquanto busco uma carreira como Engenheiro de Software.</b></p>
-  <p>• ℹ️ Meus hobbies incluem:<br>
-    <b>Jogos 🎮 | Música 🎧 | Esportes 🏃 | Natureza 🍃 | Filmes 🎥</b></p>
-  <p>• 💬 Sinta-se à vontade para me perguntar sobre:<br>
-    <b>Qualquer tema! Adoro aprender e explorar novas ideias.</b></p>
+  <p>• 📚 Este projeto é o meu <b>Web Portfolio</b>, um site para compartilhar minhas habilidades, projetos e trajetória profissional no universo da tecnologia.<br>
+     Atualmente, estou focada no <b>Desenvolvimento Back-End</b> utilizando <b>TypeScript</b> e <b>Python</b>, com a intenção de seguir carreira como <b>Engenheira de Software</b>.</p>
+  <p>• ⚙️ O portfólio contém uma seleção de meus projetos pessoais e colaborativos, demonstrando minha capacidade de construir soluções escaláveis, eficientes e de alta qualidade. Estou sempre em busca de novos desafios para aprimorar minhas habilidades e expandir meu conhecimento.</p>
+  <p>• 🎯 Meus objetivos incluem: <b>trabalhar em equipe, otimizar processos de desenvolvimento e explorar novas tecnologias no campo do desenvolvimento back-end e software engineering.</b></p>
+  <p>• 💬 Caso tenha interesse em saber mais sobre meu trabalho ou discutir possíveis colaborações, sinta-se à vontade para me perguntar sobre qualquer tema relacionado à tecnologia ou projetos específicos!</p>
   <p>• 📫 Para entrar em contato comigo:<br>
-    <b>gabrielaffonsoazevedo0@gmail.com</b></p>
+     <b>gabrielaffonsoazevedo0@gmail.com</b></p>
 </div>
+
 
 <div align="left">
   <a href="https://x.com/gabr1elazevedo_" target="_blank">
