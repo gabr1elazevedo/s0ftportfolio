@@ -2,7 +2,7 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
   s0ftportfolio
 </h1>
-<img align="right" src="https://raw.githubusercontent.com/gabr1elazevedo/s0ftportfolio/31cf3fdcef610e33cf8613b773510db141feb48a/src/assests/images/banner.svg" alt="Banner" title="Banner" width="450"/>
+<img align="right" src="./src/assests/images/banner.svg" alt="Banner" title="Banner" width="450"/>
 
 <h3>🚀 Projeto:</h3>
 <div align="left">
