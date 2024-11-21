@@ -1,5 +1,5 @@
 <h1 align="left">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+  <img src="./src/assests/images/.gif" width="30"/> 
   s0ftportfolio
 </h1>
 <img align="right" src="./src/assests/images/banner.svg" alt="Banner" title="Banner" width="450"/>
