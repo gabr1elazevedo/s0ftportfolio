@@ -1,6 +1,5 @@
 <h1 align="left">
-  <img src="./src/assests/images/.gif" width="30"/> 
-  s0ftportfolio
+  💻 s0ftportfolio
 </h1>
 <img align="right" src="./src/assests/images/banner.svg" alt="Banner" title="Banner" width="450"/>
 
