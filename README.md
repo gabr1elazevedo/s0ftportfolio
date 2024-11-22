@@ -1,7 +1,7 @@
 <h1 align="left">
   💻 s0ftportfolio
 </h1>
-<img align="right" src="./src/assests/images/banner.svg" alt="Banner" title="Banner" width="550" height="auto"/>
+<img align="right" src="./src/assests/images/banner.svg" alt="Banner" title="Banner" width="500" height="auto"/>
 
 <h3>🚀 Projeto:</h3>
 <div align="left">
