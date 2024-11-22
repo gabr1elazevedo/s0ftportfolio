@@ -1,7 +1,7 @@
 <h1 align="left">
   💻 s0ftportfolio
 </h1>
-<img align="right" src="./src/assests/images/banner.svg" alt="Banner" title="Banner" width="550"/>
+<img align="right" src="./src/assests/images/banner.svg" alt="Banner" title="Banner" width="auto" height="400"/>
 
 <h3>🚀 Projeto:</h3>
 <div align="left">
@@ -29,8 +29,6 @@
     <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" /></a>
 </div>
 
-<hr>
-
 <h3>📚 Sessões:</h3>
 <ul>
   <li>Sobre Mim</li>
@@ -41,8 +39,6 @@
   <li>Contatos</li>
 </ul>
 <p><b><a href="https://gabr1elazevedo.github.io/" target="_blank">Exemplo Online</a></b></p>
-
-<hr>
 
 <h3>📋 Clonagem:</h3>
 
@@ -71,8 +67,6 @@
   </li>
 </ul>
 
-<hr>
-
 <h3>✏️ Customização:</h3>
 
 <h4>Personalizando seu Portfólio Online!</h4>
@@ -86,16 +80,12 @@
   <li><b>Logo de Abertura:</b> O logotipo animado usa o <code>Figma</code> para design e <code>CSS3</code> para animação.</li>
 </ul>
 
-<hr>
-
 <h3>🎨 Temas:</h3>
 <p>Você pode alterar os temas do Portfólio no arquivo <code>src/theme.js</code>, onde todos os temas disponíveis são mencionados com seus respectivos códigos de cores. Para alterar o tema, altere o código abaixo:</p>
 
-<pre><code>export const chosenTheme = blueTheme;</code></pre>
+<pre><code>export const chosenTheme = blackTheme;</code></pre>
 
 <p>Altere o nome do tema e o código cuidará de todo o resto. Execute <code>npm start</code> para verificar se está tudo certo!</p>
-
-<hr>
 
 <h3>📦 Hospedagem:</h3>
 <h4>Deixando seu Portfólio online!</h4>
@@ -114,12 +104,8 @@
   <li>Agora, seu site está implantado com sucesso e você pode visitá-lo em: <code><seu-username-github>.github.io</code>.</li>
 </ol>
 
-<hr>
-
 <h3>📄 Licença:</h3>
 <p>Veja <a href="./LICENSE" target="_blank">LICENSE.md</a> para mais detalhes.</p>
-
-<hr>
 
 <h3>✨ Contribuições:</h3>
 <!-- ALL-CONTRIBUTORS-LIST:START -->
