@@ -10,6 +10,8 @@
   <p>• 🛠️ As ferramentas utilizadas neste projeto incluem tecnologias de ponta e práticas ágeis, visando a criação de soluções robustas e o aprimoramento contínuo da experiência do usuário.</p>
 </div>
 
+<hr>
+
 <div align="left">
   <a href="https://reactjs.org/docs/getting-started.html/" target="_blank">
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" /></a>
