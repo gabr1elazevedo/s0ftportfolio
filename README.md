@@ -5,11 +5,9 @@
 
 <h3>🚀 Projeto:</h3>
 <div align="left">
-  <p>• 📚 Este projeto é o meu <b>Software Portfolio</b>, onde compartilho habilidades, projetos e minha trajetória profissional no universo da tecnologia da informação.<br>
-     Estou focado no <b>Desenvolvimento Back-End</b> com <b>TypeScript</b> e <b>Python</b>, visando uma carreira como <b>Engenheiro de Software</b>.</p>
-  <p>• ⚙️ O portfólio inclui projetos pessoais e colaborativos, demonstrando minha capacidade de construir soluções escaláveis e de alta qualidade.</p>
-  <p>• 🎯 Meus objetivos: <b>trabalhar em equipe, otimizar processos e explorar novas tecnologias no campo do desenvolvimento back-end e software engineering.</b></p>
-  <p>• 🛠️ As ferramentas utilizadas neste projeto incluem:</p>
+  <p>• 📚 Este projeto é o meu <b>Software Portfolio</b>, onde compartilho habilidades, projetos e minha trajetória profissional no universo da tecnologia da informação, com foco em soluções inovadoras e eficientes para diferentes necessidades de mercado.</p>
+  <p>• ⚙️ O portfólio inclui projetos pessoais e colaborativos, que demonstram minha capacidade de construir soluções escaláveis, de alta qualidade e adaptadas às demandas dinâmicas do setor de tecnologia.</p>
+  <p>• 🛠️ As ferramentas utilizadas neste projeto incluem tecnologias de ponta e práticas ágeis, visando a criação de soluções robustas e o aprimoramento contínuo da experiência do usuário.</p>
 </div>
 
 <div align="left">
