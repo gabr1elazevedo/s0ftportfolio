@@ -1,0 +1,29 @@
+{
+  "name": "@fortawesome/fontawesome-free",
+  "version": "6.6.0",
+  "description": "The iconic font, CSS, and SVG framework",
+  "license": "(CC-BY-4.0 AND OFL-1.1 AND MIT)",
+  "author": "The Font Awesome Team (https://github.com/orgs/FortAwesome/people)",
+  "homepage": "https://fontawesome.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FortAwesome/Font-Awesome"
+  },
+  "bugs": {
+    "url": "https://github.com/FortAwesome/Font-Awesome/issues"
+  },
+  "main": "js/fontawesome.js",
+  "dependencies": {},
+  "keywords": [
+    "awesome",
+    "bootstrap",
+    "font",
+    "fontawesome",
+    "icon",
+    "svg"
+  ],
+  "engines": {
+    "node": ">=6"
+  },
+  "style": "css/fontawesome.css"
+}

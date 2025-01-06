@@ -1,0 +1,19 @@
+#topButton {
+  opacity: 1;
+  visibility: visible;
+  position: fixed;
+  bottom: 1.2rem;
+  right: 1.5rem;
+  cursor: pointer;
+  padding: 13px;
+  outline: none;
+  border-radius: 2rem;
+  transition: 0.3s ease-in;
+  font-size: 1.5rem;
+}
+
+#arrow {
+  cursor: pointer;
+  outline: none;
+  transition: 0.3s ease-in;
+}
